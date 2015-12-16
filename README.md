@@ -4,8 +4,8 @@ qNotePad
 Basic "Notepad" like application coded in C++/Qt, tested on Windows and Linux
 (Ubuntu). Developed using Qt Creator, for educational purposes. Made out of
 my desire for simpler applications, and to have software that is Cross Platform,
-however, I'm not proficient enough in C++ to continue this project. I'm hoping
-to rebuilt this project in Python in the future.
+however, I'm no longer attempting to continue this project. I'm hoping
+to rebuilt this project in Python in the future, or another programming language.
 
 License
 =======
